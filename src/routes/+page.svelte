@@ -72,7 +72,11 @@
 	]
 
 	let dayCounter = 0;
-
+	let today = new Date();
+	if(today.getDay()>4)
+	dayCounter = 0
+	else
+	dayCounter=today.getDay()
   </script>
   
 	{#if mobile()==false}  
@@ -133,7 +137,7 @@
 	<header class="card-header">
 		<div class="btn-group variant-filled-secondary w-full">
 			<button class={J ? "w-auto btn variant-ringed-secondary" : "w-auto btn variant-filled-tertiary hover:variant-filled-tertiary"} on:click={() => {J = false;}}>Michał</button>
-			<button class={!J ? "w-auto btn variant-ringed-secondary" : "w-auto btn variant-filled-tertiary hover:variant-filled-tertiary"} on:click={() => {J = true;}}>Julia</button>
+			<button class={!J ? "w-auto btn variant-ringed-secondary" : "w-auto btn variant-filled-tertiary hover:variant-filled-tertiary"} on:click={() => {J = true;}}>Julcia</button>
 			<button type="button" class="btn variant-filled-pr w-1/4 hover:variant-filled-secondary" on:click={() => {dayCounter = (dayCounter-1)%5;
 				if(dayCounter<0)
 				dayCounter+=5}}>&#60</button>
