@@ -11,27 +11,27 @@
       {},
       {
         "name": "Matematyka",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Język niemiecki",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Język angielski",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Programowanie aplikacji desktopowych",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Programowanie aplikacji desktopowych",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Programowanie aplikacji desktopowych",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       }
     ]},
     {"day":"tueseday",
@@ -40,35 +40,35 @@
       {},
       {
       "name": "Programowanie aplikacji mobilnych",
-      "status": "variant-glass-success"
+      "status": "variant-ghost-success"
       },
       {
         "name": "Programowanie aplikacji webowych",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Matematyka",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Dokumentowanie i metody testowania aplikacji",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Religia",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Język angielski",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {},
       {},
@@ -83,66 +83,66 @@
       {},
       {
         "name": "Język polski",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Biologia",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Religia",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Geografia",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Matematyka",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Testowanie aplikacji",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Programowanie aplikacji webowych",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       }
     ]},
     {"day":"thursday",
     "lessons":[
       {
         "name": "Chemia",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Programowanie obiektowe",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Programowanie obiektowe",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Matematyka",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Historia",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Programowanie aplikacji mobilnych",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Język angielski",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {},
       {},
@@ -155,39 +155,39 @@
       {},
       {
         "name": "Fizyka",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Wiedza o społeczeństwie",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Język polski",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Język polski",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Język angielski zawodowy",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Zajęcia z wychowawcą",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Matematyka",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Kształtowanie kompetencji zawodowych",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Programowanie aplikacji webowych",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {},
       {},

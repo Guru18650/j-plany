@@ -4,35 +4,35 @@
     "lessons":[
       {
         "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Pracowania analizy ilościowej",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Pracowania analizy ilościowej",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Pracowania analizy ilościowej",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Pracowania analizy ilościowej",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {},
       {},
@@ -46,31 +46,31 @@
       {},
       {
         "name": "Chemia fizyczna",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Podstawy przedsiębiorczości",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Informatyka",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Matematyka",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "?",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Język polski",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {},
       {}
@@ -80,39 +80,39 @@
       {},
       {
         "name": "Historia",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Historia",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Zajęcia opiekuńczo wychowawcze",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Matematyka",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Język angielski",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Język angielski",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Język obcy zawodowy",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {},
       {}
@@ -121,31 +121,31 @@
     "lessons":[
       {
         "name": "Działalność gospodarcza",
-        "status": "variant-glass-success"
+        "status": "variant-ghost-success"
       },
       {
         "name": "Język polski",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Język polski",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Chemia",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Zajęcia z wychowawcą",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Fizyka",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Matematyka",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {},
       {},
@@ -157,27 +157,27 @@
     "lessons":[
       {
         "name": "Język francuski",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Chemia",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Chemia fizyczna",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Geografia",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {
         "name": "Matematyka",
-        "status": "variant-glass-secondary"
+        "status": "variant-ghost-secondary"
       },
       {
         "name": "Język francuski",
-        "status": "variant-glass-error"
+        "status": "variant-ghost-error"
       },
       {},
       {},
