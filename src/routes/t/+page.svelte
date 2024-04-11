@@ -1,1 +1,1 @@
-<p class="variant-glass-secondary variant-glass-success variant-glass-error"/>
+<p class="variant-soft-secondary variant-soft-success variant-soft-error"/>

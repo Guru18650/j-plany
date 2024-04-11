@@ -11,27 +11,27 @@
       {},
       {
         "name": "Matematyka",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Język niemiecki",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Język angielski",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Programowanie aplikacji desktopowych",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Programowanie aplikacji desktopowych",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Programowanie aplikacji desktopowych",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success"
       }
     ]},
     {"day":"tueseday",
@@ -40,35 +40,35 @@
       {},
       {
       "name": "Programowanie aplikacji mobilnych",
-      "status": "variant-ghost-success"
+      "status": "variant-soft-success !text-white"
       },
       {
         "name": "Programowanie aplikacji webowych",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Matematyka",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Dokumentowanie i metody testowania aplikacji",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Religia",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Język angielski",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {},
       {},
@@ -83,66 +83,66 @@
       {},
       {
         "name": "Język polski",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Biologia",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Religia",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Geografia",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Matematyka",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Testowanie aplikacji",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Programowanie aplikacji webowych",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success"
       }
     ]},
     {"day":"thursday",
     "lessons":[
       {
         "name": "Chemia",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Programowanie obiektowe",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Programowanie obiektowe",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Matematyka",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Historia",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Programowanie aplikacji mobilnych",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Język angielski",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {},
       {},
@@ -155,39 +155,39 @@
       {},
       {
         "name": "Fizyka",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Wiedza o społeczeństwie",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Język polski",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Język polski",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Język angielski zawodowy",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Zajęcia z wychowawcą",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Matematyka",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Kształtowanie kompetencji zawodowych",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Programowanie aplikacji webowych",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {},
       {},

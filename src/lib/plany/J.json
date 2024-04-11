@@ -4,35 +4,35 @@
     "lessons":[
       {
         "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Pracowania analizy ilościowej",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Pracowania analizy ilościowej",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Pracowania analizy ilościowej",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Pracowania analizy ilościowej",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {},
       {},
@@ -46,31 +46,31 @@
       {},
       {
         "name": "Chemia fizyczna",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Podstawy przedsiębiorczości",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Informatyka",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Matematyka",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "?",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Język polski",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {},
       {}
@@ -80,39 +80,39 @@
       {},
       {
         "name": "Historia",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Historia",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Zajęcia opiekuńczo wychowawcze",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Matematyka",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Język angielski",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Język angielski",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Wychowanie fizyczne",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Język obcy zawodowy",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {},
       {}
@@ -121,31 +121,31 @@
     "lessons":[
       {
         "name": "Działalność gospodarcza",
-        "status": "variant-ghost-success"
+        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Język polski",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Język polski",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Chemia",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Zajęcia z wychowawcą",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Fizyka",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Matematyka",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {},
       {},
@@ -157,27 +157,27 @@
     "lessons":[
       {
         "name": "Język francuski",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Chemia",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Chemia fizyczna",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Geografia",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Matematyka",
-        "status": "variant-ghost-secondary"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Język francuski",
-        "status": "variant-ghost-error"
+        "status": "variant-soft-error !text-white"
       },
       {},
       {},
