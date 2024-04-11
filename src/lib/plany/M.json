@@ -1,0 +1,197 @@
+
+[
+    {"day":"monday",
+    "lessons":[
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "name": "Matematyka",
+        "status": "variant-glass-error"
+      },
+      {
+        "name": "Język niemiecki",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Język angielski",
+        "status": "variant-glass-error"
+      },
+      {
+        "name": "Programowanie aplikacji desktopowych",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Programowanie aplikacji desktopowych",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Programowanie aplikacji desktopowych",
+        "status": "variant-glass-success"
+      }
+    ]},
+    {"day":"tueseday",
+    "lessons":[
+      {},
+      {},
+      {
+      "name": "Programowanie aplikacji mobilnych",
+      "status": "variant-glass-success"
+      },
+      {
+        "name": "Programowanie aplikacji webowych",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Matematyka",
+        "status": "variant-glass-error"
+      },
+      {
+        "name": "Dokumentowanie i metody testowania aplikacji",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Religia",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Język angielski",
+        "status": "variant-glass-error"
+      },
+      {
+        "name": "Wychowanie fizyczne",
+        "status": "variant-glass-error"
+      },
+      {
+        "name": "Wychowanie fizyczne",
+        "status": "variant-glass-error"
+      },
+      {},
+      {},
+      {}
+    ]},
+    {"day":"wednesday",
+    "lessons":[
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "name": "Język polski",
+        "status": "variant-glass-secondary"
+      },
+      {
+        "name": "Biologia",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Religia",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Geografia",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Matematyka",
+        "status": "variant-glass-error"
+      },
+      {
+        "name": "Wychowanie fizyczne",
+        "status": "variant-glass-error"
+      },
+      {
+        "name": "Testowanie aplikacji",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Programowanie aplikacji webowych",
+        "status": "variant-glass-success"
+      }
+    ]},
+    {"day":"thursday",
+    "lessons":[
+      {
+        "name": "Chemia",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Programowanie obiektowe",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Programowanie obiektowe",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Matematyka",
+        "status": "variant-glass-error"
+      },
+      {
+        "name": "Historia",
+        "status": "variant-glass-secondary"
+      },
+      {
+        "name": "Programowanie aplikacji mobilnych",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Język angielski",
+        "status": "variant-glass-error"
+      },
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]},
+    {"day":"friday",
+    "lessons":[
+      {},
+      {
+        "name": "Fizyka",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Wiedza o społeczeństwie",
+        "status": "variant-glass-secondary"
+      },
+      {
+        "name": "Język polski",
+        "status": "variant-glass-secondary"
+      },
+      {
+        "name": "Język polski",
+        "status": "variant-glass-secondary"
+      },
+      {
+        "name": "Język angielski zawodowy",
+        "status": "variant-glass-secondary"
+      },
+      {
+        "name": "Zajęcia z wychowawcą",
+        "status": "variant-glass-success"
+      },
+      {
+        "name": "Matematyka",
+        "status": "variant-glass-error"
+      },
+      {
+        "name": "Kształtowanie kompetencji zawodowych",
+        "status": "variant-glass-secondary"
+      },
+      {
+        "name": "Programowanie aplikacji webowych",
+        "status": "variant-glass-success"
+      },
+      {},
+      {},
+      {}
+    ]}
+  ]
+  
