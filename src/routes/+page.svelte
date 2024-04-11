@@ -76,7 +76,7 @@
   </script>
   
 	{#if mobile()==false}  
-  <div class="table-container max-w-[1200px] m-auto">
+  <div class="table-container max-w-[1800px] m-auto">
   <table class="table table-compact">
 	<thead>
       <tr>
@@ -102,6 +102,32 @@
     </tbody>
   </table>
 </div>
+<div class="table-container max-w-[1800px] m-auto mt-10">
+	<table class="table table-compact">
+	  <thead>
+		<tr>
+		  <th>Godzina</th>
+		  <th>Poniedziałek</th>
+		  <th>Wtorek</th>
+		  <th>Środa</th>
+		  <th>Czwartek</th>
+		  <th>Piątek</th>
+		</tr>
+	  </thead>
+	  <tbody>
+		{#each tablePreparationJ as row}
+		  <tr>
+			<td class="text-center">{row[0]}</td>
+			<td class={row[1].status}>{row[1].name}</td>
+			<td class={row[2].status}>{row[2].name}</td>
+			<td class={row[3].status}>{row[3].name}</td>
+			<td class={row[4].status}>{row[4].name}</td>
+			<td class={row[5].status}>{row[5].name}</td>
+		  </tr>
+		{/each}
+	  </tbody>
+	</table>
+  </div>
 {:else}
 <div class="card">
 	<header class="card-header">
