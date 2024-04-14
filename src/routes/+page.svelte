@@ -9,45 +9,53 @@
     let tablePreparationJ = [];
 
     let hoursM = [
-	  "7:10",
-      "8:00",
-      "8:50",
-      "9:50",
-      "10:40",
-      "11:30",
-      "12:20",
-      "13:20",
-      "14:10",
-      "15:00",
-      "15:50",
-      "16:40",
-      "17:30",
+	  "7:10 - 7:55",
+      "8:00 - 8:45",
+      "8:50 - 9:35",
+      "9:50 - 10:35",
+      "10:40 - 11:25",
+      "11:30 - 12:15",
+      "12:20 - 13:05",
+      "13:20 - 14:05",
+      "14:10 - 14:55",
+      "15:00 - 15:45",
+      "15:50 - 16:35",
+      "16:40 - 17:25",
+      "17:30 - 18:15",
+      "18:25 - 19:10",
+      "19:15 - 20:00",
     ]
 	let hoursJ = [
-	  "7:05",
-      "7:55",
-      "8:45",
-      "9:35",
-      "10:35",
-      "11:25",
-      "12:15",
-      "13:05",
-      "13:55",
-      "14:45",
-      "15:35",
-      "16:25",
-      "17:15",
+	  "7:05 - 7:50",
+      "7:55 - 8:40",
+      "8:45 - 9:30",
+      "9:35 - 10:20",
+      "10:35 - 11:20",
+      "11:25 - 12:10",
+      "12:15 - 13:00",
+      "13:05 - 13:50",
+      "13:55 - 14:40",
+      "14:45 - 15:30",
+      "15:35 - 16:20",
+      "16:25 - 17:10",
+      "17:15 - 18:00",
     ]
 
 	let J = false;
 
-    for (let i = 0; i < 12; i++) {
+    for (let i = 0; i < 15; i++) {
       let tempRow = [hoursM[i]];
      planM.forEach(e => {
-      if(e.lessons[i].name == undefined)
+	
+	try {
+		if(e.lessons[i].name == undefined)
         tempRow.push({"name":"","status":""})
       else
         tempRow.push(e.lessons[i])
+	} catch (error) {
+        tempRow.push({"name":"","status":""})
+	}	
+    
      });
      tablePreparationM.push(tempRow);
     }
@@ -55,6 +63,7 @@
 	for (let i = 0; i < 12; i++) {
       let tempRow = [hoursJ[i]];
      planJ.forEach(e => {
+	
       if(e.lessons[i].name == undefined)
         tempRow.push({"name":"","status":""})
       else
@@ -152,23 +161,37 @@
 		<table class="table">
 			<thead>
 				<tr>
-				  <th class="!font-light !w-1/5">Godzina</th>
-				  <th class="!font-light !w-4/5">Lekcja 	||	{days[dayCounter]}</th>
+				  <th class="!font-light !w-1/5 text-center">Godzina</th>
+				  <th class="!font-light !w-4/5 text-center">{days[dayCounter]}</th>
 				</tr>
 			</thead>
 			<tbody>
 				{#if J}
 				{#each planJ[dayCounter].lessons as row, i}
 				<tr class="font-light">
-					<td>{hoursJ[i]}</td>
+					<td class="text-center">{hoursJ[i]}</td>
 					<td class={row.status}>{row.name==undefined ? "" : row.name}</td>
 				</tr>
 				{/each}
 				{:else}
 				{#each planM[dayCounter].lessons as row, i}
 				<tr class="font-light">
-					<td>{hoursM[i]}</td>
-					<td class={row.status}>{row.name==undefined ? "" : row.name}</td>
+					{#if i != 0}
+					{#if row.span != undefined || planM[dayCounter].lessons[i-1].span != undefined}
+					<td class="text-center h-12"></td>
+					{:else}
+					<td class="text-center">{hoursM[i]}</td>
+					{/if}
+					{:else}
+					<td class="text-center">{hoursM[i]}</td>
+
+					{/if}
+					
+				{#if row.span != undefined}
+				<td rowspan={row.span} class={row.status+" !align-middle"}>{row.name}</td>
+				{:else}
+				<td class={row.status}>{row.name==undefined ? "" : row.name}</td>
+				{/if}
 				</tr>
 				{/each}
 				{/if}

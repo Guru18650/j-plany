@@ -6,7 +6,11 @@
       {},
       {},
       {},
-      {},
+      {
+        "name": "Akordeon (11:00 - 12:30)",
+        "status":"variant-soft-error !text-white",
+        "span":"2"
+      },
       {},
       {},
       {
@@ -51,7 +55,7 @@
         "status": "variant-soft-error !text-white"
       },
       {
-        "name": "Dokumentowanie i metody testowania aplikacji",
+        "name": "Metody testowania aplikacji",
         "status": "variant-soft-success !text-white"
       },
       {
@@ -71,7 +75,17 @@
         "status": "variant-soft-error !text-white"
       },
       {},
+      {
+        "name": "Historia muzyki (16:50 - 18:25)",
+        "status":"variant-soft-success !text-white",
+        "span":"2"
+      },
       {},
+      {
+        "name": "Kształcenie słuchu (18:30 - 20:05)",
+        "status":"variant-soft-secondary !text-white",
+        "span":"2"
+      },
       {}
     ]},
     {"day":"wednesday",
@@ -95,7 +109,7 @@
       },
       {
         "name": "Geografia",
-        "status": "variant-soft-success !text-white"
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Matematyka",
@@ -112,7 +126,14 @@
       {
         "name": "Programowanie aplikacji webowych",
         "status": "variant-soft-success"
-      }
+      },
+      {
+        "name": "Chór (17:50 - 20:05)",
+        "status":"variant-soft-secondary !text-white",
+        "span":"2"
+      },
+      {}
+
     ]},
     {"day":"thursday",
     "lessons":[
@@ -144,6 +165,7 @@
         "name": "Język angielski",
         "status": "variant-soft-error !text-white"
       },
+      {},
       {},
       {},
       {},
@@ -189,8 +211,23 @@
         "name": "Programowanie aplikacji webowych",
         "status": "variant-soft-success !text-white"
       },
+      {
+        "name": "Formy muzyczne (15:10 - 16:45)",
+        "status":"variant-soft-success !text-white",
+        "span":"2"
+      },
       {},
+      {
+        "name": "Harmonia (16:50 - 18:25)",
+        "status":"variant-soft-success !text-white",
+        "span":"2"
+      },
       {},
+      {
+        "name": "Zespół (18:30 - 20:05)",
+        "status":"variant-soft-error !text-white",
+        "span":"2"
+      },
       {}
     ]}
   ]
