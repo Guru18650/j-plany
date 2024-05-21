@@ -7,12 +7,17 @@
       {},
       {},
       {
-        "name": "Akordeon (11:00 - 12:30)",
-        "status":"variant-soft-error !text-white",
-        "span":"2"
+        "name": "Programowanie aplikacji mobilnych",
+        "status": "variant-soft-success !text-white"
       },
-      {},
-      {},
+      {
+        "name": "Programowanie aplikacji webowych",
+        "status": "variant-soft-success !text-white"
+      },
+      {
+        "name": "Testowanie aplikacji",
+        "status": "variant-soft-success !text-white"
+      },
       {
         "name": "Matematyka",
         "status": "variant-soft-error !text-white"
@@ -35,17 +40,14 @@
       },
       {
         "name": "Programowanie aplikacji desktopowych",
-        "status": "variant-soft-success"
+        "status": "variant-soft-success !text-white"
       }
     ]},
     {"day":"tueseday",
     "lessons":[
       {},
       {},
-      {
-      "name": "Programowanie aplikacji mobilnych",
-      "status": "variant-soft-success !text-white"
-      },
+      {},
       {
         "name": "Programowanie aplikacji webowych",
         "status": "variant-soft-success !text-white"
@@ -119,13 +121,11 @@
         "name": "Wychowanie fizyczne",
         "status": "variant-soft-error !text-white"
       },
+      {},
       {
-        "name": "Testowanie aplikacji",
-        "status": "variant-soft-success !text-white"
-      },
-      {
-        "name": "Programowanie aplikacji webowych",
-        "status": "variant-soft-success"
+        "name": "Akordeon (16:20 - 17:05)",
+        "status":"variant-soft-error !text-white",
+        "span":"1"
       },
       {
         "name": "Chór (17:50 - 20:05)",
@@ -162,8 +162,8 @@
         "status": "variant-soft-success !text-white"
       },
       {
-        "name": "Język angielski",
-        "status": "variant-soft-error !text-white"
+        "name": "Kształtowanie kompetencji zawodowych",
+        "status": "variant-soft-secondary !text-white"
       },
       {},
       {},
@@ -204,8 +204,8 @@
         "status": "variant-soft-error !text-white"
       },
       {
-        "name": "Kształtowanie kompetencji zawodowych",
-        "status": "variant-soft-secondary !text-white"
+        "name": "Język angielski",
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Programowanie aplikacji webowych",
@@ -224,11 +224,10 @@
       },
       {},
       {
-        "name": "Zespół (18:30 - 20:05)",
+        "name": "Akordeon (18:30 - 19:15)",
         "status":"variant-soft-error !text-white",
-        "span":"2"
-      },
-      {}
+        "span":"1"
+      }
     ]}
   ]
   

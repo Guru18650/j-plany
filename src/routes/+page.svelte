@@ -82,10 +82,10 @@
 
 	let dayCounter = 0;
 	let today = new Date();
-	if(today.getDay()>4)
+	if(today.getDay()>5)
 	dayCounter = 0
 	else
-	dayCounter=today.getDay()
+	dayCounter=today.getDay()-1
   </script>
   
 	{#if mobile()==false}  

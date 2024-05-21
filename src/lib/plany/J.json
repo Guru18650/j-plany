@@ -2,39 +2,39 @@
 [
     {"day":"monday",
     "lessons":[
-      {
-        "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Pracowania preparatyki chemicznej",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Pracowania analizy ilościowej",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Pracowania analizy ilościowej",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Pracowania analizy ilościowej",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Pracowania analizy ilościowej",
-        "status": "variant-soft-secondary !text-white"
-      },
       {},
+      {
+        "name": "Pracowania preparatyki chemicznej",
+        "status": "variant-soft-secondary !text-white"
+      },
+      {
+        "name": "Pracowania preparatyki chemicznej",
+        "status": "variant-soft-secondary !text-white"
+      },
+      {
+        "name": "Pracowania preparatyki chemicznej",
+        "status": "variant-soft-secondary !text-white"
+      },
+      {
+        "name": "Pracowania preparatyki chemicznej",
+        "status": "variant-soft-secondary !text-white"
+      },
+      {
+        "name": "Pracowania analizy ilościowej",
+        "status": "variant-soft-secondary !text-white"
+      },
+      {
+        "name": "Pracowania analizy ilościowej",
+        "status": "variant-soft-secondary !text-white"
+      },
+      {
+        "name": "Pracowania analizy ilościowej",
+        "status": "variant-soft-secondary !text-white"
+      },
+      {
+        "name": "Pracowania analizy ilościowej",
+        "status": "variant-soft-secondary !text-white"
+      },
       {},
       {},
       {}
@@ -42,8 +42,14 @@
     {"day":"tueseday",
     "lessons":[
       {},
-      {},
-      {},
+      {
+        "name": "Chemia",
+        "status": "variant-soft-error !text-white"
+      },
+      {
+        "name": "Historia",
+        "status": "variant-soft-error !text-white"
+      },
       {
         "name": "Chemia fizyczna",
         "status": "variant-soft-secondary !text-white"
@@ -65,7 +71,7 @@
         "status": "variant-soft-secondary !text-white"
       },
       {
-        "name": "?",
+        "name": "Biologia",
         "status": "variant-soft-error !text-white"
       },
       {
@@ -78,10 +84,7 @@
     {"day":"wednesday",
     "lessons":[
       {},
-      {
-        "name": "Historia",
-        "status": "variant-soft-error !text-white"
-      },
+      {},
       {
         "name": "Historia",
         "status": "variant-soft-error !text-white"
@@ -119,20 +122,14 @@
     ]},
     {"day":"thursday",
     "lessons":[
-      {
-        "name": "Działalność gospodarcza",
-        "status": "variant-soft-success !text-white"
-      },
+      {},
+      {},
       {
         "name": "Język polski",
         "status": "variant-soft-error !text-white"
       },
       {
         "name": "Język polski",
-        "status": "variant-soft-error !text-white"
-      },
-      {
-        "name": "Chemia",
         "status": "variant-soft-error !text-white"
       },
       {
@@ -147,14 +144,21 @@
         "name": "Matematyka",
         "status": "variant-soft-secondary !text-white"
       },
-      {},
-      {},
+      {
+        "name": "Okienko",
+        "status": "variant-soft-success !text-white"
+      },
+      {
+        "name": "Działalność gospodarcza",
+        "status": "variant-soft-success !text-white"
+      },
       {},
       {},
       {}
     ]},
     {"day":"friday",
     "lessons":[
+      {},
       {
         "name": "Język francuski",
         "status": "variant-soft-error !text-white"
@@ -179,7 +183,6 @@
         "name": "Język francuski",
         "status": "variant-soft-error !text-white"
       },
-      {},
       {},
       {},
       {},
