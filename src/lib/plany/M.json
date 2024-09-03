@@ -2,67 +2,60 @@
 [
     {"day":"monday",
     "lessons":[
-      {},
-      {},
-      {},
-      {},
       {
-        "name": "Programowanie aplikacji mobilnych",
-        "status": "variant-soft-success !text-white"
+        "name": "Matematyka",
+        "status": "variant-soft-error !text-white"
       },
       {
-        "name": "Programowanie aplikacji webowych",
-        "status": "variant-soft-success !text-white"
+        "name": "Rozwój kreatywności",
+        "status": "variant-soft-error !text-white"
       },
       {
-        "name": "Testowanie aplikacji",
-        "status": "variant-soft-success !text-white"
+        "name": "Historia",
+        "status": "variant-soft-secondary !text-white"
+      },
+      {
+        "name": "Język polski",
+        "status": "variant-soft-secondary !text-white"
       },
       {
         "name": "Matematyka",
         "status": "variant-soft-error !text-white"
       },
       {
-        "name": "Język niemiecki",
-        "status": "variant-soft-success !text-white"
+        "name": "Wychowanie fizyczne",
+        "status": "variant-soft-error !text-white"
       },
       {
         "name": "Język angielski",
         "status": "variant-soft-error !text-white"
       },
+      {},
+      {},
       {
-        "name": "Programowanie aplikacji desktopowych",
+        "name": "Formy muzyczne (15:10 - 16:45)",
+        "span":"2",
         "status": "variant-soft-success !text-white"
       },
+      {},{
+        "name": "Akordeon (16:45 - 18:20)",
+        "span":"2",
+        "status": "variant-soft-error !text-white"
+      },
+      {},
       {
-        "name": "Programowanie aplikacji desktopowych",
+        "name": "Historia muzyki (18:30 - 20:00)",
+        "span":"2",
         "status": "variant-soft-success !text-white"
       },
-      {
-        "name": "Programowanie aplikacji desktopowych",
-        "status": "variant-soft-success !text-white"
-      }
+      {}
     ]},
     {"day":"tueseday",
     "lessons":[
       {},
-      {},
-      {},
       {
-        "name": "Programowanie aplikacji webowych",
-        "status": "variant-soft-success !text-white"
-      },
-      {
-        "name": "Matematyka",
+        "name": "Język angielski",
         "status": "variant-soft-error !text-white"
-      },
-      {
-        "name": "Metody testowania aplikacji",
-        "status": "variant-soft-success !text-white"
-      },
-      {
-        "name": "Religia",
-        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Język angielski",
@@ -73,21 +66,17 @@
         "status": "variant-soft-error !text-white"
       },
       {
-        "name": "Wychowanie fizyczne",
+        "name": "Matematyka",
         "status": "variant-soft-error !text-white"
       },
-      {},
-      {
-        "name": "Historia muzyki (16:50 - 18:25)",
-        "status":"variant-soft-success !text-white",
-        "span":"2"
-      },
-      {},
-      {
-        "name": "Kształcenie słuchu (18:30 - 20:05)",
-        "status":"variant-soft-secondary !text-white",
-        "span":"2"
-      },
+     {},
+     {},
+     {},
+     {},
+     {},
+     {},
+    {},
+    {},
       {}
     ]},
     {"day":"wednesday",
@@ -97,92 +86,91 @@
       {},
       {},
       {},
-      {
-        "name": "Język polski",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Biologia",
-        "status": "variant-soft-success !text-white"
-      },
-      {
-        "name": "Religia",
-        "status": "variant-soft-success !text-white"
-      },
-      {
-        "name": "Geografia",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Matematyka",
-        "status": "variant-soft-error !text-white"
-      },
-      {
-        "name": "Wychowanie fizyczne",
-        "status": "variant-soft-error !text-white"
-      },
+      {},
       {},
       {
-        "name": "Akordeon (16:20 - 17:05)",
-        "status":"variant-soft-error !text-white",
-        "span":"1"
-      },
-      {
-        "name": "Chór (17:50 - 20:05)",
-        "status":"variant-soft-secondary !text-white",
-        "span":"2"
-      },
-      {}
-
-    ]},
-    {"day":"thursday",
-    "lessons":[
-      {
-        "name": "Chemia",
+        "name": "Specjalizacja",
         "status": "variant-soft-success !text-white"
       },
       {
-        "name": "Programowanie obiektowe",
+        "name": "Specjalizacja",
         "status": "variant-soft-success !text-white"
       },
       {
-        "name": "Programowanie obiektowe",
+        "name": "Specjalizacja",
         "status": "variant-soft-success !text-white"
       },
       {
         "name": "Matematyka",
         "status": "variant-soft-error !text-white"
-      },
-      {
-        "name": "Historia",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Programowanie aplikacji mobilnych",
-        "status": "variant-soft-success !text-white"
-      },
-      {
-        "name": "Kształtowanie kompetencji zawodowych",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ]},
-    {"day":"friday",
-    "lessons":[
-      {},
-      {
-        "name": "Fizyka",
-        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Wiedza o społeczeństwie",
         "status": "variant-soft-secondary !text-white"
       },
+      {},
+      {},
+      {}
+
+    ]},
+    {"day":"thursday",
+    "lessons":[
+     {},
+     {},
+     {},
+     {},
+     {},
+     {
+      "name": "Język polski",
+      "status": "variant-soft-secondary !text-white"
+    },
+    {
+      "name": "Specjalizacja",
+      "status": "variant-soft-success !text-white"
+    },
+    {
+      "name": "Specjalizacja",
+      "status": "variant-soft-success !text-white"
+    },
+    {
+      "name": "Specjalizacja",
+      "status": "variant-soft-success !text-white"
+    },
+    {
+      "name": "Specjalizacja",
+      "status": "variant-soft-success !text-white"
+    },
+    {
+      "name": "Język niemiecki",
+      "status": "variant-soft-success !text-white"
+    },
+    {
+      "name": "Wychowanie fizyczne",
+      "status": "variant-soft-error !text-white"
+    },
+    {
+      "name": "Kształcenie słuchu (16:50 - 18:25)",
+      "span":"1",
+      "status": "variant-soft-error !text-white"
+    },
+      {
+        "name": "Zespół (18:30 - 19:15)",
+        "span":"1",
+        "status": "variant-soft-error !text-white"
+      },
+      {
+        "name": "Akordeon (19:20 - 20:05)",
+        "span":"1",
+        "status": "variant-soft-error !text-white"
+      }
+    ]},
+    {"day":"friday",
+    "lessons":[
+      {},
+      {},
+      {},
+      {},
+      {},
       {
         "name": "Język polski",
         "status": "variant-soft-secondary !text-white"
@@ -190,44 +178,27 @@
       {
         "name": "Język polski",
         "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Język angielski zawodowy",
-        "status": "variant-soft-secondary !text-white"
-      },
-      {
-        "name": "Zajęcia z wychowawcą",
-        "status": "variant-soft-success !text-white"
       },
       {
         "name": "Matematyka",
         "status": "variant-soft-error !text-white"
       },
       {
-        "name": "Język angielski",
+        "name": "Matematyka",
         "status": "variant-soft-error !text-white"
       },
       {
-        "name": "Programowanie aplikacji webowych",
+        "name": "-",
         "status": "variant-soft-success !text-white"
       },
       {
-        "name": "Formy muzyczne (15:10 - 16:45)",
-        "status":"variant-soft-success !text-white",
-        "span":"2"
+        "name": "Godzina wychowawcza",
+        "status": "variant-soft-success !text-white"
       },
       {},
-      {
-        "name": "Harmonia (16:50 - 18:25)",
-        "status":"variant-soft-success !text-white",
-        "span":"2"
-      },
       {},
-      {
-        "name": "Akordeon (18:30 - 19:15)",
-        "status":"variant-soft-error !text-white",
-        "span":"1"
-      }
+      {},
+      {}
     ]}
   ]
   
